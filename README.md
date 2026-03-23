@@ -29,16 +29,8 @@ Me interesa construir soluciones prácticas, priorizando la organización del c�
 ## 📈 Lenguajes más utilizados
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Python-6.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-36.0%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-10.7%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-7.8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-37.0%25-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Otros-1.5%25-6c757d?style=for-the-badge"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&langs_count=20"/>
 </p>
-
 ---
 
 ## 📊 Actividad
