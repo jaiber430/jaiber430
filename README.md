@@ -1,4 +1,4 @@
-# Jaiber Almeida
+<h1 align="center">Jaiber Almeida</h1>
 
 <p align="center">
   <em>Desarrollo de aplicaciones con enfoque en claridad, orden y funcionalidad</em>
@@ -6,17 +6,31 @@
 
 ---
 
-## 📊 Estadísticas
+## 📊 Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiber430&theme=github_dark"/>
+
 </div>
 
 ---
 
 ## 🧭 Perfil
 
-Trabajo en el desarrollo de aplicaciones buscando mantener estructuras claras, funcionales y sostenibles.  
+Trabajo en el desarrollo de aplicaciones manteniendo estructuras claras, funcionales y sostenibles.  
 Me enfoco en construir soluciones prácticas, priorizando la organización del código y la simplicidad en cada implementación.
 
 ---
@@ -48,6 +62,6 @@ Me enfoco en construir soluciones prácticas, priorizando la organización del c
 <br><br>
 
 <strong>Herramientas</strong><br><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 </div>
