@@ -26,10 +26,10 @@ Me interesa construir soluciones prácticas, priorizando la organización del c�
 
 ---
 
-## 📈 Lenguajes más utilizados
+## 📈 Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&langs_count=20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&langs_count=10"/>
 </p>
 ---
 
