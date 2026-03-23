@@ -1,12 +1,5 @@
 # 👨‍💻 Jaiber Almeida
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-4b7bec?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arquitectura-Limpia-2ecc71?style=for-the-badge&logo=clean&logoColor=white"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -20,19 +13,12 @@
 
 ## 📈 Métricas de Contribución
 
-<div align="center">
-  <!-- Tarjeta de estadísticas detalladas -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiber430&theme=github_dark"/>
-</div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiber430&theme=github_dark"/>
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiber430&theme=github_dark&utcOffset=-5"/>
       </td>
     </tr>
   </table>
@@ -49,10 +35,6 @@
         <!-- Gráfico de lenguajes basado en repositorios reales -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4b7bec&langs_count=8"/>
       </td>
-      <td align="center">
-        <!-- Tarjeta de lenguajes por repo (versión detallada) -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiber430&theme=github_dark"/>
-      </td>
     </tr>
   </table>
 </div>
@@ -64,10 +46,6 @@
 <div align="center">
   <!-- Gráfico de actividad por commit (último año) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiber430&theme=github-dark&hide_border=true&bg_color=0d1117&color=4b7bec&line=4b7bec&point=ffffff&area=true&area_color=4b7bec"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaiber430&theme=github_dark&utcOffset=-5"/>
 </div>
 
 ---
@@ -109,60 +87,15 @@
 
 ---
 
-## 📈 Top Repositorios por contribución
 
-<div align="center">
-  <!-- Repositorios más destacados (se actualizan automáticamente) -->
-  <a href="https://github.com/jaiber430?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiber430&repo=tu-repo-destacado&theme=github_dark&hide_border=true"/>
-  </a>
-  <a href="https://github.com/jaiber430?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaiber430&repo=otro-repo-destacado&theme=github_dark&hide_border=true"/>
-  </a>
-</div>
-
-> **Nota:** Reemplaza `tu-repo-destacado` y `otro-repo-destacado` con los nombres de tus repositorios principales.
-
----
-
-## 🎯 Perfil Profesional
-
-> **Desarrollador Full Stack** enfocado en arquitecturas limpias y código mantenible.  
-> Construyo soluciones prácticas priorizando la organización, escalabilidad y simplicidad en cada implementación.
-
-### Áreas de enfoque
-- 🏗️ **Arquitectura de software** · Modularidad · Patrones de diseño
-- 🔄 **APIs RESTful** · Integración continua · Buenas prácticas
-- 📦 **Bases de datos relacionales y NoSQL** · Optimización de consultas
-- 🧪 **Testing** · Documentación técnica · Code review
-
----
-
-## 📫 Conecta conmigo
+## 📫 Contacto
 
 <div align="center">
   <a href="https://github.com/jaiber430">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:jaiber.almeida@example.com">
+  <a href="mailto:jaiberworks4302@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/jaiber430">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 </div>
 
----
-
-## 📊 Última actividad
-
-<!-- Actividad reciente generada automáticamente -->
-[![Jaiber's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaiber430&theme=github-dark&hide_border=true&bg_color=0d1117&color=4b7bec&line=4b7bec&point=ffffff)](https://github.com/jaiber430)
-
----
-
-<div align="center">
-  <sub><i>"Código limpio, soluciones duraderas"</i></sub>
-  <br/>
-  <sub><i>✨ Las estadísticas se actualizan automáticamente con cada contribución ✨</i></sub>
-</div>
