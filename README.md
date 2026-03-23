@@ -51,10 +51,3 @@ Me interesa construir soluciones prácticas, priorizando la organización del c�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiber430&theme=github_dark"/>
 </p>
 
-<p align="center">
-
-📦 Repositorios públicos: 11  
-🧾 Repositorios totales: XX  
-📈 Actividad constante en desarrollo  
-
-</p>
