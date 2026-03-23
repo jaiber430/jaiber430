@@ -1,9 +1,5 @@
 <h1 align="center">Jaiber Almeida</h1>
 
-<p align="center">
-  <em>Desarrollo de aplicaciones con enfoque en claridad, orden y funcionalidad</em>
-</p>
-
 ---
 
 ## 📊 Estadísticas
