@@ -78,16 +78,6 @@
 
 ---
 
-## 🏆 Logros y estadísticas avanzadas
-
-<div align="center">
-  <!-- Trofeos de GitHub basados en contribuciones reales -->
-  <img src="https://github-profile-trophy.vercel.app/?username=jaiber430&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-</div>
-
----
-
-
 ## 📫 Contacto
 
 <div align="center">
