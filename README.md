@@ -1,13 +1,14 @@
 <h1 align="center">Jaiber Almeida</h1>
 
+---
+
 ## 📊 Métricas
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiber430&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4b7bec&ring=4b7bec&fire=4b7bec" height="160"/>
 </div>
 
 ---
@@ -15,9 +16,9 @@
 ## 📈 Actividad
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiber430&theme=github_dark"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiber430&theme=github_dark"/>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiber430&theme=github-dark&hide_border=true&bg_color=0d1117&color=4b7bec&line=4b7bec&point=ffffff&area=true"/>
 </div>
 
 ---
@@ -48,4 +49,10 @@ Me enfoco en construir soluciones prácticas, priorizando la organización del c
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </p>
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"Código limpio, soluciones duraderas"</i></sub>
 </div>
