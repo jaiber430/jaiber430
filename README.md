@@ -1,12 +1,23 @@
 <h1 align="center">Jaiber Almeida</h1>
 
----
-
 ## 📊 Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiber430&theme=github_dark"/>
+
 </div>
 
 ---
