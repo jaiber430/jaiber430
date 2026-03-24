@@ -37,62 +37,20 @@ Me enfoco en construir soluciones prácticas, priorizando la organización del c
 
 ## ⚙️ Stack Tecnológico
 
-<div align="center">
+<p align="center">
 
-<table width="70%" style="border-collapse: separate; border-spacing: 30px 20px;">
-<tr>
-<td align="center" valign="top" width="50%">
+<img src="https://skillicons.dev/icons?i=python" height="18"/> Python · 
+<img src="https://skillicons.dev/icons?i=django" height="18"/> Django · 
+<img src="https://skillicons.dev/icons?i=javascript" height="18"/> JavaScript · 
+<img src="https://skillicons.dev/icons?i=nodejs" height="18"/> Node.js · 
+<img src="https://skillicons.dev/icons?i=express" height="18"/> Express · 
+<img src="https://skillicons.dev/icons?i=react" height="18"/> React · 
+<img src="https://skillicons.dev/icons?i=tailwind" height="18"/> Tailwind CSS · 
+<img src="https://skillicons.dev/icons?i=html" height="18"/> HTML · 
+<img src="https://skillicons.dev/icons?i=css" height="18"/> CSS · 
+<img src="https://skillicons.dev/icons?i=postgres" height="18"/> PostgreSQL · 
+<img src="https://skillicons.dev/icons?i=mongodb" height="18"/> MongoDB · 
+<img src="https://skillicons.dev/icons?i=mysql" height="18"/> MySQL · 
+<img src="https://skillicons.dev/icons?i=git" height="18"/> Git
 
-<strong>Backend</strong>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-
-</td>
-
-<td align="center" valign="top" width="50%">
-
-<strong>Frontend</strong>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/><br><br>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
-<strong>Bases de Datos</strong>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</td>
-
-<td align="center" valign="top">
-
-<strong>Herramientas</strong>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-</td>
-</tr>
-
-</table>
-
-</div>
+</p>
