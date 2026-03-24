@@ -39,9 +39,9 @@ Me enfoco en construir soluciones prácticas, priorizando la organización del c
 
 <div align="center">
 
-<table style="border-collapse: separate; border-spacing: 40px 20px;">
+<table width="70%" style="border-collapse: separate; border-spacing: 30px 20px;">
 <tr>
-<td align="center" valign="top">
+<td align="center" valign="top" width="50%">
 
 <strong>Backend</strong>
 
@@ -54,7 +54,7 @@ Me enfoco en construir soluciones prácticas, priorizando la organización del c
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" valign="top" width="50%">
 
 <strong>Frontend</strong>
 
