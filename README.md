@@ -8,6 +8,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiber430&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4b7bec&ring=4b7bec&fire=4b7bec" height="160"/>
+
 </div>
 
 ---
