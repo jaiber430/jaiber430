@@ -1,5 +1,4 @@
 <h1 align="center">Jaiber Almeida</h1>
----
 
 ## 📊 Métricas
 
