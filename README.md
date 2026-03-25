@@ -4,7 +4,7 @@
 
 Desarrollador en formación, enfocado en apps web.  
 Estoy aprendiendo a construir proyectos funcionales y organizados, mejorando con cada práctica.  
-Trabajo principalmente con Python/Django en el backend y React en el frontend.
+Trabajo principalmente con Python/Django en el backend y React o Html con Css en el frontend.
 
 ---
 
