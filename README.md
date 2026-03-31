@@ -1,7 +1,7 @@
 <h1 align="center">Jaiber Almeida</h1>
 
 <p align="center">
-  <code>Software Developer · Django · React · Node.js</code>
+  <code>Desarollo de software · Django · React · Node.js</code>
 </p>
 
 ---
