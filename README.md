@@ -1,35 +1,35 @@
 <h1 align="center">Jaiber Almeida</h1>
 
+<p align="center">
+  <code>Software Developer · Django · React · Node.js</code>
+</p>
+
+---
+
 ## Perfil
 
-Desarrollador en formación, enfocado en apps web.  
-Estoy aprendiendo a construir proyectos funcionales y organizados, mejorando con cada práctica.  
-Trabajo principalmente con Python/Django en el backend y React o Html con Css en el frontend.
+Tengo 18 años y casi 2 años de experiencia construyendo software que opera en entornos reales. Empecé por curiosidad, me quedé por convicción.
+
+Me especializo en sistemas web robustos — arquitectura clara, lógica de negocio bien definida y código que otro desarrollador pueda retomar sin dolor de cabeza.
+
+No me conformo con que funcione. Me importa que funcione bien, que escale y que tenga sentido.
 
 ---
 
 ## Métricas
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiber430&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4b7bec&ring=4b7bec&fire=4b7bec" height="160"/>
-</div>
-
----
-
-## Actividad
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaiber430&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiber430&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="160"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=jaiber430&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4b7bec&ring=4b7bec&fire=4b7bec" height="160"/>
 </div>
 
 ---
 
 ## Stack Tecnológico
 
-> Tecnologías que estoy usando y aprendiendo actualmente.
+> Tecnologías que uso actualmente en proyectos reales.
 
 <div align="center">
   <p>
