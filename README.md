@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Desarrollador Full Stack · Popayán, Colombia 🇨🇴
+### Desarrollador Backend · Popayán, Colombia 🇨🇴
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-000?style=flat-square&logoColor=white)](https://portafolio-react-jdo1.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-jaiber430-181717?style=flat-square&logo=github)](https://github.com/jaiber430)
