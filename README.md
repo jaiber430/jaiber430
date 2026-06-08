@@ -20,7 +20,7 @@
 nombre:      Jaiber
 edad:        18
 ubicación:   Popayán, Colombia
-rol:         Full Stack Developer · Freelance
+rol:         Developer Backend · Freelance
 clientes:    [SENA]
 actualmente: Construyendo sistemas en producción 🏗️
 ```
