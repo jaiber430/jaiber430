@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Desarrollador · Popayán, Colombia 🇨🇴
+### Desarrollador Backend · Popayán, Colombia 🇨🇴
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-000?style=flat-square&logoColor=white)](https://portafolio-react-jdo1.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-jaiber430-181717?style=flat-square&logo=github)](https://github.com/jaiber430)
@@ -67,23 +67,20 @@ actualmente: Construyendo sistemas en producción 🏗️
 
 ---
 
-### 🏗️ Proyectos en producción
+### ⏱️ Estadísticas de código
 
-| Proyecto | Stack | Estado |
-|---|---|---|
-| 📅 **Agropecuario Net** — Sistema de programación de instructores para SENA | Django · MySQL · Docker · Nginx | 🟢 En producción |
-| 📋 **Gestión TICS** — Gestión de cursos y aspirantes para SENA | Django · Docker | 🟢 En producción |
-| 🌐 **Portafolio personal** | React · Vite · Tailwind · Node · MongoDB | 🟢 [En vivo](https://portafolio-react-jdo1.vercel.app/) |
+> Generado automáticamente con [WakaTime](https://wakatime.com) — registra en tiempo real cuánto codeo y en qué lenguajes.
 
----
+<div align="center">
 
-### 🎯 Métricas con GitHub Metrics
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaiber430&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=6)](https://wakatime.com/@jaiber430)
 
-> ⚙️ *Esta sección se genera automáticamente con [lowlighter/metrics](https://github.com/lowlighter/metrics)*
-> 
-> Para activarla: creá un repo llamado `jaiber430/jaiber430`, añadí un workflow de GitHub Actions con metrics y reemplazá esta sección por la imagen generada.
-> 
-> Podés ver cómo configurarlo en: https://metrics.lecoq.io
+</div>
+
+> ⚙️ **Para activar esta sección:**
+> 1. Creá cuenta en [wakatime.com](https://wakatime.com) con tu usuario `jaiber430`
+> 2. Instalá la extensión en VS Code (WakaTime)
+> 3. Pegá tu API key — empieza a registrar solo
 
 ---
 
