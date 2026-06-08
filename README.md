@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Desarrollador Backend · Popayán, Colombia 🇨🇴
+### Desarrollador Full Stack · Popayán, Colombia 🇨🇴
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portafolio-000?style=flat-square&logoColor=white)](https://portafolio-react-jdo1.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-jaiber430-181717?style=flat-square&logo=github)](https://github.com/jaiber430)
@@ -69,18 +69,24 @@ actualmente: Construyendo sistemas en producción 🏗️
 
 ### ⏱️ Estadísticas de código
 
-> Generado automáticamente con [WakaTime](https://wakatime.com) — registra en tiempo real cuánto codeo y en qué lenguajes.
-
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaiber430&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=6)](https://wakatime.com/@jaiber430)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiber430&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=donut&langs_count=8" />
 
 </div>
 
-> ⚙️ **Para activar esta sección:**
-> 1. Creá cuenta en [wakatime.com](https://wakatime.com) con tu usuario `jaiber430`
-> 2. Instalá la extensión en VS Code (WakaTime)
-> 3. Pegá tu API key — empieza a registrar solo
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiber430&theme=github_dark" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaiber430&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaiber430&theme=github_dark" />
+
+</div>
 
 ---
 
