@@ -22,7 +22,6 @@ edad:        18
 ubicación:   Popayán, Colombia
 rol:         Developer Backend · Freelance
 clientes:    [SENA]
-actualmente: Construyendo sistemas en producción 🏗️
 ```
 
 ---
